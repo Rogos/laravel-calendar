@@ -23,5 +23,9 @@
 			"Makzumi\\Calendar\\": "src/"
 		}
 	},
-	"minimum-stability": "stable"
+	"minimum-stability": "stable",
+	"repositories": [{
+	        "type": "vcs",
+	        "url": "https://github.com/Rogos/laravel-calendar"
+	}]
 }
