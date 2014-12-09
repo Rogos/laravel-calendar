@@ -1,5 +1,5 @@
 {
-	"name": "makzumi/calendar",
+	"name": "rogos/laravel-calendar",
 	"type": "library",
 	"description": "Laravel 4 Flexible Calendar",
 	"keywords": ["laravel","calendar", "events"],
@@ -7,6 +7,10 @@
 		{
 			"name": "Ammar Almakzumi",
 			"email": "info@makzumi.com"
+		},
+		{
+			"name": "Tomasz Rogowski",
+			"email": "rogos1@gmail.com"
 		}
 	],
 	"require": {
